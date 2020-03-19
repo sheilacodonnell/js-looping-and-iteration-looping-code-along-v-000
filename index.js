@@ -7,4 +7,4 @@ function writeCards(names, occasion) {
   }
 }
 
-writeCards(names, occasion)
+writeCards(names, occasion);
