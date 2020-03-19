@@ -8,3 +8,5 @@ function writeCards(names, occasion) {
   }
   return cards;
 }
+
+function countDown
