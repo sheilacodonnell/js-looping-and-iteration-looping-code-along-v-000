@@ -8,3 +8,4 @@ function writeCards(names, occasion) {
   return cards;
 }
 
+writeCards(names, occasion);
