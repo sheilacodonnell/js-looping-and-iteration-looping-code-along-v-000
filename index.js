@@ -1,5 +1,5 @@
 const names = ["Ada", "Brendan", "Ali"];
-const occasion =["birthday"]
+const occasion =["birthday"];
 
 
 
