@@ -1,4 +1,4 @@
-const names = [ 'Lisa', 'Kaitlin', 'Jan' ], 'surprise' ) 
+const names = [ 'Lisa', 'Kaitlin', 'Jan' ], 'surprise' );
 
 function writeCards(names, occasion) {
   for (let i = 0; i < names.length; i++){
