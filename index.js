@@ -9,4 +9,8 @@ function writeCards(names, occasion) {
   return cards;
 }
 
-function countDown
+const number = 10
+
+function countDown(number) {
+  for (let i = 0)
+}
