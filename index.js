@@ -13,6 +13,6 @@ const number = 10
 
 function countDown(number) {
   for (let i = 0); i < number.length; i++){
-    console.log(`${number[i]})
+    console.log(`${number[i]}`)
   }
 }
