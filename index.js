@@ -10,8 +10,7 @@ function writeCards(names, occasion) {
 }
 
 
-function countDown() {
-  let number = 10;
+function countDown(number) {
   while (number < 10 && number > 0) {
     console.log(number);
     number--
