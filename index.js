@@ -15,4 +15,5 @@ function countDown(number) {
   while (number < 10) {
     console.log(number++);
   }
+  countDown(number)
 }
