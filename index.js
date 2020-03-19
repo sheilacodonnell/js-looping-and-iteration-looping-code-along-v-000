@@ -4,7 +4,7 @@ const cards = [];
 
 function writeCards(names, occasion) {
   for (let i = 0; i < names.length; i++){
-    cards.push(`Thank you, ${names[i]} for the wonderful ${names[3]} gift!`);
+    cards.push(`Thank you, ${names[i]} for the wonderful ${occasion[0]} gift!`);
   }
   return cards;
 }
