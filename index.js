@@ -13,7 +13,7 @@ let number = 10
 
 function countDown(number) {
   while (number < 10) {
-    console.log(number-=);
+    console.log(number--);
   }
   countDown(number)
 }
