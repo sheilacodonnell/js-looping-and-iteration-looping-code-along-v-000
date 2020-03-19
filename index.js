@@ -9,10 +9,10 @@ function writeCards(names, occasion) {
   return cards;
 }
 
-const number = 10
+let number = 10
 
 function countDown(number) {
-  for (let i = 0; i < number.length; i++) {
-    console.log(`${number[i]}`);
+  while (number < 10) {
+    console.log(`${number++}`);
   }
 }
