@@ -9,9 +9,10 @@ function writeCards(names, occasion) {
   return cards;
 }
 
-let number = 10
 
 function countDown(number) {
+  let number = 10
+
   while (number < 10 && number > 0) {
     console.log(number);
     number--
