@@ -1,5 +1,5 @@
 const names = [ 'Lisa', 'Kaitlin', 'Jan' ];
-const occasion =['surprise'];
+const occasion ='surprise';
 const cards = [];
 
 function writeCards(names, occasion) {
