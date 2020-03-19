@@ -1,4 +1,7 @@
-const names = ([ 'Lisa', 'Kaitlin', 'Jan' ], 'surprise' );
+const names = [ 'Lisa', 'Kaitlin', 'Jan' ], 'surprise' ) 
+const occasion =['surprise'];
+
+const cards = []
 
 function writeCards(names, occasion) {
   for (let i = 0; i < names.length; i++){
@@ -7,4 +10,4 @@ function writeCards(names, occasion) {
   return names;
 }
 
-writeCards(names);
+writeCards(names, occasion);
